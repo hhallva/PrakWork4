@@ -1,0 +1,4 @@
+*.log
+**/[Bb]in/*
+!apache/**/*.log
+dist/**/tmp*.*
